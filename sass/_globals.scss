@@ -1,0 +1,12 @@
+// VARIABLE + MIXINS
+ @import "compass";
+ @import "compass/reset";
+
+ $primary-color:red;  
+ .button {
+
+ 	 @include border-radius(4px, 4px);
+ }
+
+
+

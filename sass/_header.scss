@@ -1,0 +1,25 @@
+.navbar-static-top {
+background-color: $primary-color; 
+margin-right: auto;
+margin-left: auto;
+
+ul {
+	color: #FFF;
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	text-align: center;
+
+	li {
+		display: inline;
+		line-height: 45px;
+		a {
+		color: inherit;
+		}
+
+	}
+
+} 
+
+}
+
