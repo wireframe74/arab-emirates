@@ -1,0 +1,77 @@
+@include sticky-footer(190px, ".wrapper", ".my-root-footer", ".footer");
+
+.footer {
+	background: $primary-color;
+	padding-top: 40px;
+
+	p, 
+	a {
+		color:#fff;
+	}
+
+	.border-top {
+		border-color:#FFF;
+		margin: 0 0 0 0;
+	}
+
+	h2 {
+		background-color: $primary-color;
+		padding: 0 20px;
+		margin-top: 0;
+		display: inline-block;
+		width: auto;
+		font-size: 1em;
+		text-transform: uppercase;
+		color: #fff;
+		position: relative;
+		top: -12px;
+		left: 45px;
+	}
+
+		.form-inline {
+
+			margin-bottom:30px;
+
+			@include clearfix;
+			
+
+			input[type="email"] {
+				width: 60%;
+				float: left;
+				background-color: #f3a0b4;
+				color: #fff;
+
+				@include input-placeholder {
+				color: #fff;
+				}
+
+			}
+
+			input[type="submit"]  { 
+			width: 38%;
+			float: right;
+			background-color: #f8f3ea;
+			color: $primary-color;
+			@extend .primary-font;
+
+
+			}
+
+		}
+
+
+	.copyright {
+		background-color:  $secondary-color;
+		height: 60px;
+		line-height: 60px;
+
+		
+
+
+		ul {
+			@include horizontal-list(10px);
+		}
+
+	}
+	
+}

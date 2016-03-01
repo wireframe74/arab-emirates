@@ -1,12 +1,105 @@
-// VARIABLE + MIXINS
- @import "compass";
- @import "compass/reset";
 
- $primary-color:red;  
- .button {
 
- 	 @include border-radius(4px, 4px);
+ .primary-font  {
+ 	font-family: 'Montserrat', sans-serif;
+ 	text-transform: uppercase;
  }
 
+.section {
+	padding: 80px 0;
+	position: relative;
+	width: 100%;
+}
+
+.border-top {
+	border-top: 4px solid $secondary-color;
 
 
+}
+
+.transition {
+	-webkit-transition: all .5s;
+	-o-transition: all .5s;
+	transition: all .5s;
+}
+
+
+.table-align {
+	display: table;
+	width: 100%;
+	padding: 0 50px;
+	margin-bottom: 30px;
+	@include clearfix;
+	table-layout: fixed;
+
+	@media (max-width:768px) {
+				width: 100%;
+				display: block;
+			}
+
+	.td {
+		vertical-align: middle;
+		display: table-cell;
+		width: 60%;
+		&:first-child {
+			width:40%;
+			padding-right: 30px;
+
+			@media (max-width:768px) {
+				width: 100%!IMPORTANT;
+				display: block;
+				margin-bottom: 30px;
+			}
+		}
+
+		img {
+			margin-right: 20px;
+			width: 100%;
+			height: auto;
+			max-width: 	315px;
+		}
+	}
+}
+
+
+.table-align.img-right {
+
+		.td {
+		width: 40%;
+			&:first-child {
+				width:60%;
+			}
+		}
+
+		img {
+			margin-right: 0;
+			max-width: 	315px;
+		}
+	
+
+}
+
+.fbox-center {
+
+	h3 {
+		font-size: 1em;
+		margin-bottom:0;
+
+		span {
+		font-size: 1.5em;
+		}
+	}
+
+
+
+
+	img {
+		width: 100%;
+		height: auto;
+		max-width: 200px;
+	}
+	text-align: center;
+	text-transform: uppercase;
+	
+	
+}

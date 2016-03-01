@@ -1,0 +1,14 @@
+// VARIABLE + MIXINS
+
+ $primary-color:#ea7d97;  
+ $secondary-color: #e6ddce;
+ $tertiary-color: #e6ddce;
+
+
+
+@mixin easy-image($img) {
+	background-image:image-url($img);
+	max-width: image-width($img);
+	width: 100%;
+	height: image-height($img);
+}

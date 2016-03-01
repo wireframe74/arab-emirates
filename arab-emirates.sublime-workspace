@@ -1,0 +1,698 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"edit_pos",
+				"edit_post_link"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "sass/_home.scss",
+			"settings":
+			{
+				"buffer_size": 833,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 8698,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Gruntfile.js",
+			"settings":
+			{
+				"buffer_size": 2742,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/_buttons.scss",
+			"settings":
+			{
+				"buffer_size": 692,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "sass/_globals.scss",
+			"settings":
+			{
+				"buffer_size": 608,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "sass/_header.scss",
+			"settings":
+			{
+				"buffer_size": 1241,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "sass/_variables.scss",
+			"settings":
+			{
+				"buffer_size": 215,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "sass/style.scss",
+			"settings":
+			{
+				"buffer_size": 297,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 588.0,
+		"last_filter": "pa",
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"ip",
+				"Package Control: Install Package"
+			],
+			[
+				"lp",
+				"Package Control: List Packages"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"br",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 600.0
+	},
+	"console":
+	{
+		"height": 565.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp/www/arab-emirates",
+		"/C/wamp/www/arab-emirates/images",
+		"/C/wamp/www/arab-emirates/images/icons"
+	],
+	"file_history":
+	[
+		"/C/wamp/www/arab-emirates/config.rb",
+		"/C/wamp/www/arab-emirates/index.html",
+		"/C/wamp/www/wpa-woocommerce/wp-content/themes/wpa/assets/css/_yuck.scss",
+		"/C/wamp/www/wpa-woocommerce/wp-content/themes/wpa/functions.php",
+		"/C/wamp/www/wpa-woocommerce/wp-content/themes/wpa/templates/courses.php",
+		"/C/wamp/www/wpa-woocommerce/wp-content/themes/wpa/page.php",
+		"/C/wamp/www/wpa-woocommerce/wp-content/themes/wpa/home.php",
+		"/C/wamp/www/wpa-woocommerce/wp-content/themes/wpa/templates/brochure-download-success.php",
+		"/C/wamp/www/wpa-woocommerce/wp-content/themes/wpa/assets/css/_customise.scss",
+		"/C/wamp/www/wpa-woocommerce/wp-content/themes/wpa/footer.php",
+		"/C/wamp/www/wpa-woocommerce/wp-content/themes/wpa/templates/courses-single.php",
+		"/C/wamp/www/wpa-chargify/wp-content/themes/wpa/assets/css/_yuck.scss",
+		"/C/wamp/www/wpa-woocommerce/wp-content/themes/wpa/includes/page-header.php",
+		"/C/wamp/www/wpa-woocommerce/wp-content/themes/wpa/includes/desktop-navigation.php",
+		"/C/Users/Chris/Desktop/EXPORT/products.xml",
+		"/C/wamp/www/wpa-woocommerce/wp-content/themes/wpa/templates/download-workbook.php",
+		"/C/wamp/www/wpa-woocommerce/wp-content/themes/wpa/templates/chargify-signup.php",
+		"/C/wamp/www/wpa-woocommerce/wp-content/themes/wpa/assets/css/custom.css",
+		"/C/wamp/www/wpa-woocommerce/sftp-config.json",
+		"/C/Users/Chris/Desktop/weddin96_prosolduma.sql",
+		"/C/wamp/www/wpa-woocommerce/wp-content/themes/wpa/header.php",
+		"/C/wamp/www/wpa-woocommerce/wp-content/themes/wpa/woocommerce.php",
+		"/C/wamp/www/wpa-woocommerce/wp-content/themes/wpa/templates/full-width.php",
+		"/C/wamp/www/wpa-woocommerce/wp-config.php",
+		"/C/wamp/www/wpa-woocommerce/wp-content/themes/wpa/assets/js/combined.js",
+		"/C/wamp/www/aawep-woocommerce/wp-content/themes/aawep/assets/css/_customise.scss",
+		"/C/users/chris/appdata/local/temp/sublime-sftp-browse-1445234794/mapped/public_html/wp-config.php",
+		"/C/wamp/www/wpa-woocommerce/wp-content/themes/wpa/templates/advisory-board.php",
+		"/C/wamp/www/wpa-woocommerce/wp-content/themes/wpa/templates/course-fees.php",
+		"/C/wamp/www/wpa-woocommerce/wp-content/themes/wpa/templates/tutors.php",
+		"/C/wamp/www/wpa-woocommerce/wp-content/themes/wpa/templates/success-stories.php",
+		"/C/wamp/www/wpa-woocommerce/wp-content/themes/wpa/templates/the-team.php",
+		"/C/wamp/www/wpa-woocommerce/wp-content/themes/wpa/templates/the-images.php",
+		"/C/Users/Chris/Downloads/functions.php",
+		"/C/wamp/www/wpa-woocommerce/wp-content/themes/wpa/assets/css/_woocommerce.scss",
+		"/C/Users/Chris/Downloads/partners.php",
+		"/C/wamp/www/wpa-woocommerce/wp-content/themes/wpa/templates/video-login.php",
+		"/C/wamp/www/wpa-woocommerce/wp-content/themes/wpa/templates/partners.php",
+		"/C/wamp/www/prosolutions/sftp-config.json",
+		"/C/Users/Chris/Desktop/LEAF-NEW.html",
+		"/C/wamp/www/prosolutions/wp-content/themes/prosolutions/footer.php",
+		"/C/wamp/www/prosolutions/wp-content/themes/prosolutions/front-page.php",
+		"/C/wamp/www/prosolutions/wp-config.php",
+		"/C/wamp/www/prosolutions/wp-content/themes/prosolutions/template-full-width.php",
+		"/C/wamp/www/prosolutions/wp-content/themes/prosolutions/template-prosolutions.php",
+		"/C/wamp/www/prosolutions/wp-content/themes/prosolutions/template-procontractor.php",
+		"/C/wamp/www/prosolutions/wp-content/themes/prosolutions/template-protoolbox.php",
+		"/C/wamp/www/prosolutions/wp-content/themes/prosolutions/template-prodevelop.php",
+		"/C/wamp/www/prosolutions/wp-content/themes/prosolutions/template-proinduct.php",
+		"/C/wamp/www/prosolutions/wp-content/themes/prosolutions/template-proincident.php",
+		"/C/Users/Chris/AppData/Roaming/Sublime Text 3/Packages/User/php/template_name.sublime-snippet",
+		"/C/wamp/www/awme/header.php",
+		"/C/wamp/www/awme/css/_modules.scss",
+		"/C/wamp/www/awme/page-delegates-international.php",
+		"/C/wamp/www/awme/page-delegates-australian.php",
+		"/C/wamp/www/prosolutions/wp-admin/index.php",
+		"/C/wamp/www/prosolutions/wp-content/themes/prosolutions/functions.php",
+		"/C/wamp/www/prosolutions/wp-content/themes/prosolutions/template-carbon-neutral-policy.php",
+		"/C/wamp/www/prosolutions/wp-content/themes/prosolutions/template-about.php",
+		"/C/wamp/www/prosolutions/.htaccess",
+		"/C/Users/Chris/Desktop/advanced-custom-field-export.xml",
+		"/C/wamp/www/prosolutions/wp-content/themes/prosolutions/page-about-bak.php",
+		"/C/Users/Chris/AppData/Roaming/Sublime Text 3/Packages/User/php/the_sub_field.sublime-snippet",
+		"/C/wamp/www/wpa/wp-content/themes/aawep/templates/tutors.php",
+		"/C/wamp/www/leonards-wp/wp-content/themes/leonards/template-the-team.php",
+		"/C/Users/Chris/AppData/Roaming/Sublime Text 3/Packages/User/php/thefield.sublime-snippet",
+		"/C/wamp/bin/apache/apache2.4.9/conf/httpd.conf",
+		"/C/wamp/www/index.php",
+		"/C/wamp/www/prosolutions/wp-content/themes/prosolutions/css/_variables.scss",
+		"/C/Users/Chris/Desktop/landing-page/sftp-config.json",
+		"/C/wamp/www/wei/aawep/footer.php",
+		"/C/Users/Chris/Desktop/landing-page/index.html",
+		"/C/wamp/www/wei/sftp-config.json",
+		"/C/Users/Chris/Desktop/landing-page.php",
+		"/C/Users/Chris/Desktop/error_log",
+		"/C/wamp/www/cityofparramatta/wp-content/themes/angc-parramatta/header.php",
+		"/C/wamp/www/cityofparramatta/sftp-config.json",
+		"/C/wamp/www/cityofparramatta/leonards/wp-content/themes/leonards/header.php",
+		"/C/wamp/www/cityofparramatta/leonards_dev1/wp-content/themes/leonards/header.php",
+		"/C/wamp/www/cityofparramatta/wp-content/themes/leonards/header.php",
+		"/C/wamp/www/wpa/wp-content/themes/aawep/templates/aa-wei-tv.php",
+		"/C/wamp/www/wpa/wp-content/themes/aawep/single-uk-tv.php",
+		"/C/wamp/www/wpa/wp-content/themes/aawep/templates/academy-tv.php"
+	],
+	"find":
+	{
+		"height": 50.0
+	},
+	"find_in_files":
+	{
+		"height": 138.0,
+		"where_history":
+		[
+			"C:\\wamp\\www\\wpa-woocommerce\\wp-content\\themes\\wpa",
+			"<current file>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"col-sm-3",
+			"fbox-effect nobottomborder",
+			"bottommargin-sm",
+			"services-itm",
+			"br>",
+			"style=\"vertical-align:middle\"",
+			"social",
+			"col-lg-4",
+			"col-lg-3",
+			"/wp-content/themes/wpa/assets/",
+			"/* Template Name: Home */",
+			"Home",
+			"home.php",
+			"trend-cta",
+			"https://instagram.com/janloganpics/",
+			"https://instagram.com/janloganpics",
+			"insta",
+			"<li>",
+			" <li>",
+			"form-control ",
+			" gfield ginput_right",
+			"form-control ",
+			"gfield ginput_left",
+			"gfield",
+			"form-control",
+			"/>",
+			"<input",
+			"form-input",
+			"/>",
+			"http://localhost/prosolutions-wp/wp-content/uploads",
+			"https:\\/\\/www.prosolutionstraining.co.uk\\/wp-content\\/uploads\\",
+			"https://www.prosolutionstraining.co.uk/",
+			"https://",
+			"input",
+			"wp_reset_postdata()",
+			"wp_reset_postdata();",
+			"https://www.weddingplanningacademy.co.uk",
+			"rel",
+			".page-template-templateslogin-php",
+			"login",
+			"glyph",
+			"deve",
+			"widgets",
+			"icons",
+			"section_2:_icons",
+			"icons_2_intro",
+			"icons_3_intro",
+			"section_3:_icons_right",
+			"\n.page .pure-form",
+			"icons",
+			"section_3:_icons_right",
+			"about",
+			"get_field",
+			"section_3_icons_right",
+			"tile",
+			"repeater_field_name",
+			"</p>",
+			"<p>",
+			"landing-page-assets/",
+			"landing-page-assets",
+			"images",
+			"js",
+			"js''''",
+			"css/",
+			".uk",
+			"#f08a68"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"form-control",
+			"http://www.prosolutionstraining.co.uk/wp-content/uploads",
+			"http://www.prosolutionstraining.co.uk/",
+			"http://",
+			"<?php bloginfo('template_directory'); ?>/assets/landing-page-assets"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "sass/_home.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 833,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								710,
+								710
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 440.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8698,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7588,
+								7588
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3662.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Gruntfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2742,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1354,
+								1354
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 886.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "sass/_buttons.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 692,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								224,
+								224
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "sass/_globals.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 608,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								600,
+								600
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 360.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "sass/_header.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1241,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								430,
+								144
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "sass/_variables.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 215,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								138,
+								104
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"incomplete_sync": null,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "sass/style.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 297,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								133,
+								133
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 174.0
+	},
+	"pinned_build_system": "",
+	"project": "arab-emirates.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"functions",
+				"wp-content\\themes\\wpa\\functions.php"
+			],
+			[
+				"front",
+				"wp-content\\themes\\prosolutions\\front-page.php"
+			],
+			[
+				"leaf",
+				"wp-content\\themes\\prosolutions\\leaf.php"
+			],
+			[
+				"fucntions",
+				"wp-content\\themes\\prosolutions\\functions.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 372.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

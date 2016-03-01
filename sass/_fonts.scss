@@ -1,0 +1,46 @@
+body {
+	font-size:14px;
+}
+
+
+h1,h2,h3,h4,h5,
+ul.site-nav li a{
+	font-family: 'Montserrat', sans-serif;
+	color: #000;
+}
+
+p,
+li,
+a,
+span {
+	// font-family: 'Arimo', sans-serif;
+	font-family: 'Lato', sans-serif;
+	color: #000;
+}
+
+
+ul.site-nav li a {
+	
+	text-transform: uppercase;
+	letter-spacing: .069em;
+	font-size: .8em;
+	text-decoration: none;
+
+	@include link-colors(#fff, #000, #000, #000, #000);
+	
+}
+
+h2.title {
+  position: relative;
+  text-align: center;
+  margin-top:-45px;
+   margin:-40px auto 20px 0;
+}
+
+h2.title.center-align {
+  position: relative;
+  text-align: center;
+  margin-top:-45px;
+   margin:-40px auto 20px auto;
+}
+
